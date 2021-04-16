@@ -1,0 +1,8 @@
+arjun 123
+john 987
+chandler 672
+joey 194
+monika 729
+rachel 100
+phoebe 492
+ross 879
